@@ -4,7 +4,6 @@ date: 2022-03-04T07:42:05+05:30
 draft: false
 ---
 
-# My First Post
 
 Om Shri Vigneshwaraya Namaha
 
