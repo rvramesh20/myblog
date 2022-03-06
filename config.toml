@@ -1,4 +1,4 @@
-baseURL = 'http://rvramesh20.github.io/myblog/'
+baseURL = 'http://rvramesh20.github.io/myblog'
 languageCode = 'en-us'
 title = "Ramesh>Blog"
 theme = "hugo-paper-mod"
