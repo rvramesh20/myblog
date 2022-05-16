@@ -10,7 +10,6 @@ Hello there!
 
 I am Ramesh. I am Identity and Access Management (IAM )Engineer. 
 
-I will be using this blog to post technical content on IAM and anything I find interesting.
 
 ## DISCLAIMER: 
 
