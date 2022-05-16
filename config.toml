@@ -7,7 +7,7 @@ theme = "hugo-paper-mod"
   disableHLJS = false                         # don't use highlight.js
   twitter = 'rvramesh20'                # twitter.com/YOUR_TWITTER_ID
   github = 'rvramesh20'                  # github.com/YOUR_GITHUB_ID
-#  linkedin = '/in/ramesh-rv-b2b57a8'
+  linkedin = '/in/ramesh-rv-b2b57a8'
 
 
 [menu]
